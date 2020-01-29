@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.15)
 project(STM32L4_device
-        VERSION 1.5.1
+        VERSION 1.6.0
         DESCRIPTION "STM32L4 CMSIS device as a CMake package"
         LANGUAGES C ASM)
 
